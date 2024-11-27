@@ -48,6 +48,6 @@ The Work is provided "as-is," without any express or implied warranties. The Com
 
 Disputes shall be resolved through collective decision-making processes by a council of contributors. Appeals to courts governed by Western or non-socialist legal frameworks are not permitted.
 
-**Z. International Applicability**
+**Š. International Applicability**
 
 This licence explicitly rejects the jurisdiction of all Western or capitalist legal frameworks. Any legal disputes must be resolved within the framework of the Community or under socialist-aligned mediation.
