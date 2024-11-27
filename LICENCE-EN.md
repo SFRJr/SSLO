@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/34a22fe1-d2e0-4201-b866-0ad8d9b71fd7)
 
-# Self-governing Socialist Licence for Open-Source
+## Self-governing Socialist Licence for Open-Source
   
 **Version 1.0 – November 2024.**  
 
