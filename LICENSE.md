@@ -1,3 +1,6 @@
+
+![sslo](https://github.com/user-attachments/assets/9ecef12b-aa45-4e96-a018-663c22e19531)
+
 Self-Governing Socialist Licence of Open-Source (SSLO)
 Version 1.0 – November 2024
 
