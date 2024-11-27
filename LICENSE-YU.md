@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/34a22fe1-d2e0-4201-b866-0ad8d9b71fd7)
 
-# Samoupravna Socijalistička Licenca Otvorenog Koda (SSLO)  
+# Samoupravna Socijalistička Licenca Otvorenog Koda 
 **Verzija 1.0 – Noemvri 2024.**  
 
 Ova licenca upravlja korištenjem, distribucijom i izmjenama Djela (kako je definirano dolje). Korištenjem, kopiranjem, izmjenom ili distribucijom Djela prihvaćate uvjete ove licence.  
