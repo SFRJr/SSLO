@@ -1,9 +1,8 @@
+![image](https://github.com/user-attachments/assets/34a22fe1-d2e0-4201-b866-0ad8d9b71fd7)
 
-![sslo](https://github.com/user-attachments/assets/9ecef12b-aa45-4e96-a018-663c22e19531)
-
-Self-Governing Socialist Licence of Open-Source (SSLO)
-
-Version 1.0 – November 2024
+# Self-Governing Socialist Licence of Open-Source (SSLO)
+  
+**Version 1.0 – November 2024.**  
 
 This licence governs the use, distribution, and modification of the Work (as defined below). By using, copying, modifying, or distributing the Work, you accept the terms of this licence.
 
